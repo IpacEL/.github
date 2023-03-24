@@ -1,6 +1,6 @@
 ## 这里是 IpacEL
 
-[[关于我们]](https://github.com/IpacEL/Ipacamod) -- [[网站]](https://ipacel.cc) -- [[ApliNi]](https://github.com/ApliNi)
+[[Ipacamod]](https://github.com/IpacEL/Ipacamod)
 
 - **🍀 活跃的项目**
   - [IpacManager :: IpacEL 的服务器管理器](https://github.com/ApliNi/IpacManager) 🌟
