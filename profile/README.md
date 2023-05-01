@@ -3,7 +3,6 @@
 [[Ipacamod]](https://github.com/IpacEL/Ipacamod)
 
 - **🍀 活跃的项目**
-  - [IpacManager :: IpacEL 的服务器管理器](https://github.com/ApliNi/IpacManager) 🌟
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [useTranslatedNames :: 用于翻译 CoreProtect 插件物品名的插件](https://github.com/ApliNi/useTranslatedNames) ⭐
   - [Flag :: 为MC服务器定制的SGC启动参数](https://github.com/IpacEL/Flag) ⭐
