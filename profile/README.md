@@ -1,6 +1,7 @@
 ## 这里是 IpacEL
 
-[[Ipacamod]](https://github.com/IpacEL/Ipacamod)
+这个账户没有活跃的橡木, 可以看看 [[ApliNi]](https://github.com/ApliNi).
+
 
 - **🍀 活跃的项目**
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
